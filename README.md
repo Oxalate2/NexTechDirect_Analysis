@@ -29,11 +29,12 @@ From 2019-2022, just over 108k total sales converted into $28M in gross revenue 
 
 ### Seasonality and Geography
 
-### Product Impact
+### Product Trends
+The company's catalog was anchored by 4 primary products: Gaming Monitors, Laptops, AirPods, and Charging Cables, which together accounted for over 97% of the revenue and over 89% of the order volume across all 4 years. A clear revenue-volume disconnect emerged between Laptops and Charging Cables specifically, as the Laptops consistently contributed a disproportionately high share of revenue relative to thier order volume, reflecting their high price point and positioning them as a low-frequency, high-AOV product. On the other hard, Charging Cables showed the opposite pattern with a notably higher share or order volume than revenue, marking them as a high-frequency, lower-AOV product. Gaming Monitors and AirPods kept a steady and consistent contributors in both areas throughout the timeframe, while the Other category saw gradual increases in revenue and more so volume by 2022, hinting at a slow shift towards the less mainstream products.
 
 <p align="center">
-  <img src="images/percent_of_revenue_graph.PNG" width="600">
-  <img src="images/percent_of_volume_graph.PNG" width="600">
+  <img src="images/percent_revenue_graph.PNG" width="600">
+  <img src="images/percent_volume_graph.PNG" width="600">
 </p>
 
 ## Loyalty Program

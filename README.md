@@ -23,11 +23,18 @@ NexTech Direct is a US-based e-commerce retailer that specializes in consumer el
 ### Overview
 From 2019-2022, just over 108k total sales converted into $28M in gross revenue over this 4-year timespan. A key year was 2020, when a spike in sales led to a 160% increase in revenue year-over-year and a 2x growth in sales volume, driven by increased online consumer demand amidst the COVID-19 pandemic. However, this momentum proved to be unsustainable through 2021-2022 with key metrics showing decreases year-over-year: total revenue by 46%, order volume 40%, and average order value (AOV) by 10%. While this decline can be linked to society slowly coming out of lockdown, the next sections will be diving into other contributing factors and point out potential areas that could be improved upon.
 
-<img width="800" alt="image" src="images/Sales_Overview.png">
+<p align="center">
+  <img width="800" alt="image" src="images/Sales_Overview.png">
+</p>
 
 ### Seasonality and Geography
 
 ### Product Impact
+
+<p align="center">
+  <img src="images/percent_of_revenue_graph.PNG" width="600">
+  <img src="images/percent_of_volume_graph.PNG" width="600">
+</p>
 
 ## Loyalty Program
 ### Sales

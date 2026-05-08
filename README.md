@@ -39,6 +39,12 @@ The company's catalog was anchored by 4 primary products: Gaming Monitors, Lapto
 </p>
 
 ## Loyalty Program
+
+
+<p align="center">
+  <img src="images/AOV loyalty.PNG" width="600">
+</p>
+
 ### Member Value
 ### Program Growth & Distribution
 ### Refund Behavior

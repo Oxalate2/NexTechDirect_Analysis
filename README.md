@@ -11,6 +11,7 @@ NexTech Direct is a US-based e-commerce retailer that specializes in consumer el
 **Should NexTech continue investing in its loyalty program?**
 - Did loyalty members generate higher AOV compared to non-members?
 - Did loyalty members order more frequently?
+- How did loyalty membership and its revenue share evolve between 2019 and 2022?
 - How was loyalty membership distributed across regions and products?
 - What was the refund behavior of loyalty members vs. non-members
 
@@ -38,8 +39,9 @@ The company's catalog was anchored by 4 primary products: Gaming Monitors, Lapto
 </p>
 
 ## Loyalty Program
-### Sales
-### Loyalty Refunds
+### Member Value
+### Program Growth & Distribution
+### Refund Behavior
 
 ## Refunds Rates
 

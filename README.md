@@ -39,13 +39,27 @@ The company's catalog was anchored by 4 primary products: Gaming Monitors, Lapto
 </p>
 
 ## Loyalty Program
+### Member Value
+Across all 3 core sales metrics: average overder value (AOV), total revenue, and order volume, loyalty member show a clear and accelerating value advantage over the period of 2019-2022.
 
+<p align="center">
+  <img src="images/Revenue Loyalty.PNG" width="600">
+</p>
+
+In 2019, loyalty membership had very minimal effects as they represented only 2K orders and $415K in total revenue. This being compared to their non-loyalty counterparts with 14.8K orders and $3.45M, even outpacing AOV with $233 (non-members) versus $207 (members). As expected, the program started off small and its members were not yet outspending the broader customer base.
+
+<p align="center">
+  <img src="images/Order Volume loyalty.PNG" width="600">
+</p>
+
+By 2021, the program had enough time to scale, with second-order effects beginning to emerge. Loyalty revenue ($4.87M) surpassed non-loyalty revenue ($4.26M) for the first time, and order volume followed the same trend with 19.5K member orders versus 16.3K non-member. This crossover across revenue and volumes signals that the program reached a meaningful inflection point, shifting loyalty members from a small minority to a dominant contributor of NexTech Direct's sales. 
 
 <p align="center">
   <img src="images/AOV loyalty.PNG" width="600">
 </p>
 
-### Member Value
+The AOV trajectory reinforces this narrative, Non-loyalty AOV peaked in 2020 at $345 before declining to $214 by 2022, while loyalty AOV grew steadily from $207 to $249 before settling at $245 in 2022, finally surpassing non-loyalty for the first time. All core metrics show that members are not only ordering more frequently, but they are even spending more per order.
+
 ### Program Growth & Distribution
 ### Refund Behavior
 

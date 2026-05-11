@@ -31,13 +31,17 @@ From 2019-2022, just over 108k total orders generated $28M in gross revenue over
 ### Seasonality and Geography
 
 ### Product Trends
-The company's catalog was anchored by 4 primary products: Gaming Monitors, Laptops, AirPods, and Charging Cables, which together accounted for over 97% of the revenue and over 89% of the order volume across all 4 years. A clear revenue-volume disconnect emerged between Laptops and Charging Cables specifically, as the Laptops consistently contributed a disproportionately high share of revenue (26-42%) relative to their order volume (4-9%), reflecting their high price point and positioning them as a low-frequency, high-AOV product. On the other hard, Charging Cables showed the opposite pattern with a notably higher share of order volume (17-26%) than revenue (1-3%), marking them as a high-frequency, lower-AOV product. Gaming Monitors and AirPods kept a steady and consistent contributors in both areas throughout the timeframe, while the Other category saw gradual uptick in revenue and volume by 2022, hinting at a slow shift towards the less mainstream products.
+The company's catalog was anchored by 4 primary products: Gaming Monitors, Laptops, AirPods, and Charging Cables, which together accounted for over 97% of the revenue and over 89% of the order volume across all 4 years. A clear revenue-volume disconnect emerged between Laptops and Charging Cables specifically, as the Laptops consistently contributed a disproportionately high share of revenue (26-42%) relative to their order volume (4-9%), reflecting their high price point and positioning them as a low-frequency, high-AOV product. 
 
 <p align="center">
   <img src="images/percent_revenue_graph.PNG" width="600">
-  <img src="images/percent_volume_graph.PNG" width="600">
 </p>
 
+On the other hard, Charging Cables showed the opposite pattern with a notably higher share of order volume (17-26%) than revenue (1-3%), marking them as a high-frequency, lower-AOV product. Gaming Monitors and AirPods kept a steady and consistent contributors in both areas throughout the timeframe, while the Other category saw gradual uptick in revenue and volume by 2022, hinting at a slow shift towards the less mainstream products.
+
+<p align="center">
+  <img src="images/percent_volume_graph.PNG" width="600">
+</p>
 ## Loyalty Program
 ### Member Value
 Across all 3 core sales metrics: average overder value (AOV), total revenue, and order volume, loyalty member show a clear and accelerating value advantage over the period of 2019-2022.
@@ -61,14 +65,19 @@ By 2021, the program had enough time to scale, with second-order effects beginni
 The AOV trajectory reinforces this narrative, non-loyalty AOV peaked in 2020 at $345 before declining to $214 by 2022, while loyalty AOV grew steadily from $207 to $249 before settling at $245 in 2022, finally surpassing non-loyalty for the first time. All core metrics show that members are not only ordering more frequently, but they are even spending more per order.
 
 ### Program Growth & Distribution
+Between 2019 and 2022, the loyalty program went through a transformation from a marginal asset to the majority catalyst of NexTech Direct's revenue. In 2019, loyalty members accounted for just 11% of total revenue. By 2021 the figure had ballooned to 53%, holding steady at 55% through 2022, thus showing that the program is proving to be a reliable assest rather than a simple one-year anomaly.
 
 <p align="center">
   <img src="images/loyalty revenue percent year.PNG" width="600">
 </p>
 
+The program's reach was consistent across all four major regions. APAC, EMEA, LATAM, and NA all fell within a narrow 37-41% loyalty share band, with no specific region standing out amongst the others. This uniformity is a positive signal showing that the program's growth was organic and spread out evenly rather than concentrated in one market.
+
 <p align="center">
   <img src="images/loyalty revenue percent region.PNG" width="600">
 </p>
+
+At the product level, loyalty share turned out to be fairly more volatile. AirPods carried the highest loyalty concentration at 56%, followed by Gaming Monitors at 43%. Laptops showed a notable loyalty share at a low 22%, which could be worth monitoring knowing they are NexTech's highest AOV-product. Charging Cables sat at just 14% loyalty share, which is consistent with their low-cost, high-volume nature as a product.
 
 <p align="center">
   <img src="images/loyalty revenue product percent.PNG" width="600">
@@ -77,7 +86,7 @@ The AOV trajectory reinforces this narrative, non-loyalty AOV peaked in 2020 at 
 
 ### Refund Behavior
 
-## Refunds Rates
+## Refund Rates
 
 ## ERD
 <img width="800" alt="image" src="https://github.com/user-attachments/assets/50f3f1e3-7ad5-47c2-a7f3-584ef6874e28" />

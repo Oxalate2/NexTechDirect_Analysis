@@ -86,8 +86,25 @@ At the product level, loyalty share turned out to be fairly more volatile. AirPo
 
 
 ### Refund Behavior
+While loyalty members demonstrated positive purchasing behavior across AOV, volume, and revenue contribution, their refund rates consistently surpass those of non-members throughout the 2019-2022 period. In 2019, loyalty members refunded at 7.8% compared to 5.4% for the non-members. That gap widened significantly in 2020, where loyalty refund rates peaked at 12.9% versus 6.9% for non-loyalty, nearly double. By 2021 both segments declined, with loyalty at 5.1% and non-loyalty at 1.8%.
+
+<p align="center">
+  <img src="images/Refund Rate Loyalty vs Non-Loyalty.PNG" width="600">
+</p>
+
+It's worth noting that the 2019 loyalty refund rate is based on a relatively small sample size, reflecting how nascent the membership program still was at that point. As membership scaled through 2020 and 2021, order volumes between segments became more comparable, making the rate gaps in those years the most meaningful signals in the data. The raw refund counts tell the same story, where loyalty refunds grew from roughly 150 in 2019 to over 1,600 in 2020, while non-loyalty refunds grew more modestly from roughly 800 to 1,400 over the same period.
+
+<p align="center">
+  <img src="images/Refund Count Loyalty vs Non-Loyalty.PNG" width="600">
+</p>
 
 ## Refund Rates
+
+
+
+## Recommendations
+This elevated refund behavior among loyalty members is a nuance worth monitoring but not a disqualifying finding. Loyalty members still generate higher AOV and greater revenue contribution even accounting for returns, suggesting the net value of the program reminds positive. However, investigating why loyalty members refund at higher rates would a meaningful next step for NexTech Direct. This could include finding out if these refunds are driven by product category, region, or program incentives and structure.
+
 
 ## ERD
 <img width="800" alt="image" src="https://github.com/user-attachments/assets/50f3f1e3-7ad5-47c2-a7f3-584ef6874e28" />

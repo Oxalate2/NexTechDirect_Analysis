@@ -58,9 +58,23 @@ By 2021, the program had enough time to scale, with second-order effects beginni
   <img src="images/AOV loyalty.PNG" width="600">
 </p>
 
-The AOV trajectory reinforces this narrative, Non-loyalty AOV peaked in 2020 at $345 before declining to $214 by 2022, while loyalty AOV grew steadily from $207 to $249 before settling at $245 in 2022, finally surpassing non-loyalty for the first time. All core metrics show that members are not only ordering more frequently, but they are even spending more per order.
+The AOV trajectory reinforces this narrative, non-loyalty AOV peaked in 2020 at $345 before declining to $214 by 2022, while loyalty AOV grew steadily from $207 to $249 before settling at $245 in 2022, finally surpassing non-loyalty for the first time. All core metrics show that members are not only ordering more frequently, but they are even spending more per order.
 
 ### Program Growth & Distribution
+
+<p align="center">
+  <img src="images/loyalty revenue year percent.PNG" width="600">
+</p>
+
+<p align="center">
+  <img src="images/loyalty revenue region percent.PNG" width="600">
+</p>
+
+<p align="center">
+  <img src="images/loyalty revenue product percent.PNG" width="600">
+</p>
+
+
 ### Refund Behavior
 
 ## Refunds Rates

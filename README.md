@@ -63,11 +63,11 @@ The AOV trajectory reinforces this narrative, non-loyalty AOV peaked in 2020 at 
 ### Program Growth & Distribution
 
 <p align="center">
-  <img src="images/loyalty revenue year percent.PNG" width="600">
+  <img src="images/loyalty revenue percent year.PNG" width="600">
 </p>
 
 <p align="center">
-  <img src="images/loyalty revenue region percent.PNG" width="600">
+  <img src="images/loyalty revenue percent region.PNG" width="600">
 </p>
 
 <p align="center">

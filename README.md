@@ -42,6 +42,7 @@ On the other hard, Charging Cables showed the opposite pattern with a notably hi
 <p align="center">
   <img src="images/percent_volume_graph.PNG" width="600">
 </p>
+
 ## Loyalty Program
 ### Member Value
 Across all 3 core sales metrics: average overder value (AOV), total revenue, and order volume, loyalty member show a clear and accelerating value advantage over the period of 2019-2022.

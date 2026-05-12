@@ -85,7 +85,7 @@ At the product level, loyalty share turned out to be fairly more volatile. AirPo
 </p>
 
 
-### Refund Behavior
+### Loyalty Refund Behavior
 While loyalty members demonstrated positive purchasing behavior across AOV, volume, and revenue contribution, their refund rates consistently surpass those of non-members throughout the 2019-2022 period. In 2019, loyalty members refunded at 7.8% compared to 5.4% for the non-members. That gap widened significantly in 2020, where loyalty refund rates peaked at 12.9% versus 6.9% for non-loyalty, nearly double. By 2021 both segments declined, with loyalty at 5.1% and non-loyalty at 1.8%.
 
 <p align="center">
@@ -98,8 +98,12 @@ It's worth noting that the 2019 loyalty refund rate is based on a relatively sma
   <img src="images/Refund Count Loyalty vs Non-Loyalty.PNG" width="600">
 </p>
 
-## Refund Rates
+## Apple Refunds
+### Refund Overview
 
+
+
+### Product Refund Behavior
 
 
 ## Recommendations

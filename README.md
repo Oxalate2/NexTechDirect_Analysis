@@ -101,6 +101,17 @@ It's worth noting that the 2019 loyalty refund rate is based on a relatively sma
 ## Apple Refunds
 ### Refund Overview
 
+<p align="center">
+  <img src="images/apple_refund_overview.PNG" width="600">
+</p>
+
+<p align="center">
+  <img src="images/apple refund rates.PNG" width="600">
+</p>
+
+<p align="center">
+  <img src="images/apple refund counts.PNG" width="600">
+</p>
 
 
 ### Product Refund Behavior

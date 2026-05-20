@@ -20,8 +20,8 @@ NexTech Direct is a US-based e-commerce retailer that specializes in consumer el
 - How did AOV compare across individual Apple products?
 - Did refund behavior change year over year?
 
-## Key Insights
-### Overview
+# Key Insights
+## Sales Overview
 From 2019-2022, just over 108k total orders generated $28M in gross revenue over this 4-year timespan. A key year was 2020, when a spike in sales led to a 160% increase in revenue year-over-year and a 2x growth in order volume, driven by increased online consumer demand amidst the COVID-19 pandemic. However, this momentum proved to be unsustainable through 2021-2022 with key metrics showing decreases year-over-year: total revenue by 46%, order volume 40%, and average order value (AOV) by 10%. While this decline can be linked to society slowly coming out of lockdown, the next sections will be diving into other contributing factors and point out potential areas that could be improved upon.
 
 <p align="center">
@@ -29,6 +29,18 @@ From 2019-2022, just over 108k total orders generated $28M in gross revenue over
 </p>
 
 ### Seasonality and Geography
+
+<p align="center">
+  <img src="images/monthly revenue by year.PNG" width="600">
+</p>
+
+Monthly revenue followed a consistent seasonal pattern across the period, with Q4 generally representing the strongest stretch of each year driven by holiday demand, and Q1 showing relative pullback before sales stabilized through the mid-year. 2020 was the clear outlier, with revenue accelerating from March onward as COVID-driven online consumer demand pushed monthly figures well above anything seen in the year prior, peaking at $1.25M in December. 2021 maintained elevated levels relative to 2019 but trended downward throughout the year, and 2022 followed a similar trajectory before dropping sharply in Q4, which could point to the potential for incomplete data for that period rather than an organic seasonal shift.
+
+<p align="center">
+  <img src="images/regional revenue by year.PNG" width="600">
+</p>
+
+Regionally, NA was the dominant market across all four years, accounting for roughly $14.5M of the $28M in total revenue, with EMEA as a distant second at $8.2M. APAC and LATAM remained comparatively small contributors throughout the period. All four regions mirrored the same 2020 spike and post-2021 decline, suggesting the broader demand trends were global in nature rather than driven by any single market.
 
 ### Product Trends
 The company's catalog was anchored by 4 primary products: Gaming Monitors, Laptops, AirPods, and Charging Cables, which together accounted for over 97% of the revenue and over 89% of the order volume across all 4 years. A clear revenue-volume disconnect emerged between Laptops and Charging Cables specifically, as the Laptops consistently contributed a disproportionately high share of revenue (26-42%) relative to their order volume (4-9%), reflecting their high price point and positioning them as a low-frequency, high-AOV product. 
@@ -105,6 +117,10 @@ It's worth noting that the 2019 loyalty refund rate is based on a relatively sma
   <img src="images/apple_refund_overview.PNG" width="600">
 </p>
 
+Apple product refunds peaked significantly in 2020, with the overall refund rate climbing from 6.4% to 10.3% and refund count nearly tripling from 545 to 1,853. This pattern correlates with COVID-era consumer behavior, where supply chain disruptions and shifting purchase decisions drove incrased return activity across retail. By 2021, both metrics had fallen well below their 2019 baseline,suggesting the spike was situational rather than structural.
+
+### Product Refund Behavior
+
 <p align="center">
   <img src="images/apple refund rates.PNG" width="600">
 </p>
@@ -113,8 +129,7 @@ It's worth noting that the 2019 loyalty refund rate is based on a relatively sma
   <img src="images/apple refund counts.PNG" width="600">
 </p>
 
-
-### Product Refund Behavior
+At the product level, MacBooks carried the highest refund rates across all three years, starting at 18.3% in 2019 before dropping to 6.3% by 2021. Given their ~$1,600 AOV, MacBook refunds represent a disproportionate revenue impact relative to their count. 67 refunds in 2019 and 311 in 2020 translate to significantly more lost revenue than AirPods' 473 and 1,529 respectively. AirPods dominated refund volume by count due to their sales scale, while iPhone refund counts remained negligible across the entire period. Across all three products, the 2020 spike and 2021 recovery held consistent, reinforcing that the elevated refund activity was driven by external conditions rather than product-specific issues.
 
 
 ## Recommendations

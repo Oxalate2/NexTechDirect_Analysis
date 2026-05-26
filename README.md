@@ -126,12 +126,11 @@ Apple product refunds peaked significantly in 2020, with the overall refund rate
   <img src="images/apple refund rates.PNG" width="600">
 </p>
 
+At the product level, MacBooks carried the highest refund rates across all three years, starting at 18.3% in 2019 before dropping to 6.3% by 2021. Given their ~$1,600 AOV, MacBook refunds represent a disproportionate revenue impact relative to their count. 67 refunds in 2019 and 311 in 2020 translate to significantly more lost revenue than AirPods' 473 and 1,529 respectively. AirPods dominated refund volume by count due to their sales scale, while iPhone refund counts remained negligible across the entire period. Across all three products, the 2020 spike and 2021 recovery held consistent, reinforcing that the elevated refund activity was driven by external conditions rather than product-specific issues.
+
 <p align="center">
   <img src="images/apple refund counts.PNG" width="600">
 </p>
-
-At the product level, MacBooks carried the highest refund rates across all three years, starting at 18.3% in 2019 before dropping to 6.3% by 2021. Given their ~$1,600 AOV, MacBook refunds represent a disproportionate revenue impact relative to their count. 67 refunds in 2019 and 311 in 2020 translate to significantly more lost revenue than AirPods' 473 and 1,529 respectively. AirPods dominated refund volume by count due to their sales scale, while iPhone refund counts remained negligible across the entire period. Across all three products, the 2020 spike and 2021 recovery held consistent, reinforcing that the elevated refund activity was driven by external conditions rather than product-specific issues.
-
 
 ## Recommendations
 ### Sales Performance

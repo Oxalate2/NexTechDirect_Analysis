@@ -57,7 +57,7 @@ On the other hard, Charging Cables showed the opposite pattern with a notably hi
 
 ## Loyalty Program
 ### Member Value
-Across all 3 core sales metrics: average overder value (AOV), total revenue, and order volume, loyalty member show a clear and accelerating value advantage over the period of 2019-2022.
+Across all 3 core sales metrics: average order value (AOV), total revenue, and order volume, loyalty member show a clear and accelerating value advantage over the period of 2019-2022.
 
 <p align="center">
   <img src="images/Revenue Loyalty.PNG" width="600">
@@ -104,7 +104,8 @@ While loyalty members demonstrated positive purchasing behavior across AOV, volu
   <img src="images/Refund Rate Loyalty vs Non-Loyalty.PNG" width="600">
 </p>
 
-It's worth noting that the 2019 loyalty refund rate is based on a relatively small sample size, reflecting how nascent the membership program still was at that point. As membership scaled through 2020 and 2021, order volumes between segments became more comparable, making the rate gaps in those years the most meaningful signals in the data. The raw refund counts tell the same story, where loyalty refunds grew from roughly 150 in 2019 to over 1,600 in 2020, while non-loyalty refunds grew more modestly from roughly 800 to 1,400 over the same period.
+It's worth noting that the 2019 loyalty refund rate is based on a relatively small sample size, reflecting how nascent the membership program still was at that point. As membership scaled through 2020 and 2021, order volumes between segments became more comparable, making the rate gaps in those years the most meaningful signals in the data. The raw refund counts tell the same story, where loyalty refunds grew from roughly 150 in 2019 to over 1,600 in 2020, while non-loyalty refunds grew more modestly from roughly 800 to 1,400 over the same period. This elevated refund behavior among loyalty members is a nuance worth monitoring but not a disqualifying finding. Loyalty members still generate higher AOV and greater revenue contribution even accounting for returns, suggesting the net value of the program remains positive.
+
 
 <p align="center">
   <img src="images/Refund Count Loyalty vs Non-Loyalty.PNG" width="600">
@@ -117,7 +118,7 @@ It's worth noting that the 2019 loyalty refund rate is based on a relatively sma
   <img src="images/apple_refund_overview.PNG" width="600">
 </p>
 
-Apple product refunds peaked significantly in 2020, with the overall refund rate climbing from 6.4% to 10.3% and refund count nearly tripling from 545 to 1,853. This pattern correlates with COVID-era consumer behavior, where supply chain disruptions and shifting purchase decisions drove incrased return activity across retail. By 2021, both metrics had fallen well below their 2019 baseline,suggesting the spike was situational rather than structural.
+Apple product refunds peaked significantly in 2020, with the overall refund rate climbing from 6.4% to 10.3% and refund count nearly tripling from 545 to 1,853. This pattern correlates with COVID-era consumer behavior, where supply chain disruptions and shifting purchase decisions drove increased return activity across retail. By 2021, both metrics had fallen well below their 2019 baseline, suggesting the spike was situational rather than structural.
 
 ### Product Refund Behavior
 
@@ -133,7 +134,22 @@ At the product level, MacBooks carried the highest refund rates across all three
 
 
 ## Recommendations
-This elevated refund behavior among loyalty members is a nuance worth monitoring but not a disqualifying finding. Loyalty members still generate higher AOV and greater revenue contribution even accounting for returns, suggesting the net value of the program reminds positive. However, investigating why loyalty members refund at higher rates would a meaningful next step for NexTech Direct. This could include finding out if these refunds are driven by product category, region, or program incentives and structure.
+### Sales Performance
+- Investigate the sharp Q4 2022 revenue drop before attributing it to an organic seasonal shift. Incomplete data for that period could be the likely culprit and worth confirming before drawing conclusions.
+- Consider stategies to reverse post-COVID decline, particularly in high-AOV product lines like Laptops, which saw the steepest proportional revenue loss.
+- Lean into Q4 demand concentration by front-loading inventory and promotions for Gaming Monitors and AirPods, the two most consistent streams of revenue across all four years
+- Monitor the gradual uptick in the "Other" product category as it may signal an opportunity to diversity the catalog beyond the four core products before over-reliance on them.
+
+### Loyalty Program
+- Continute investing in the loyalty progran. By 2021-2022, members account for 53-55% of total revenue, order more frequently, and have a higher AOV ($245 vs $214 in 2022) as the program has clearly taken a leap from a just an additional assest to a core revenue driver.
+- Investigate why loyalty members refund at consistently higher rates than non-members (peaking at 12.9% vs 6.9% in 2020 respectively). Segmenting refund behavior by product category, region, and order timing could surface whether the issue is structural or incentive-driven.
+- Address the low loyalty penetration in Laptops (22% loyalty share). Given that Laptops are NexTech's highest AOV product, converting even a modest portion of Laptop buyers into loyalty members could have a substantial revenue impact.
+- Run a targeted loyalty acquisition push in APAC and LATAM, as both regions mirror EMEA's revenue scale but remain smaller contributors overall. Deepening loyalty engagement there has upside with relatively low program cannibalization risk
+
+### Apple Refunds
+- The 2020 refund spike across Apple products appears primarily situational (COVID-era disruption) given the sharp 2021 recovery, as no immediate product-specific intervention seems necessary based on current trends alone.
+- MacBook refunds deserve ongoing monitoring. Despite low refund counts relative to AirPods, their ~$1,600 AOV means each return carries disproportionate revenue impact. A targeted post-purchase support or return-reduction initiative for MacBooks could protect a meaningful share of high-value revenue.
+- Establish a consistent year-over-year refund tracking cadence for Apple products specifically, since the 2020 anomaly makes it difficult to distinguish structural refund behavior from external shocks without a cleaner baseline.
 
 
 ## ERD

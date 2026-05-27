@@ -140,7 +140,7 @@ At the product level, MacBooks carried the highest refund rates across all three
 - Monitor the gradual uptick in the "Other" product category as it may signal an opportunity to diversity the catalog beyond the four core products before over-reliance on them.
 
 ### Loyalty Program
-- Continute investing in the loyalty progran. By 2021-2022, members account for 53-55% of total revenue, order more frequently, and have a higher AOV ($245 vs $214 in 2022) as the program has clearly taken a leap from a just an additional assest to a core revenue driver.
+- Continute investing in the loyalty program. By 2021-2022, members account for 53-55% of total revenue, order more frequently, and have a higher AOV ($245 vs $214 in 2022) as the program has clearly taken a leap from a just an additional assest to a core revenue driver.
 - Investigate why loyalty members refund at consistently higher rates than non-members (peaking at 12.9% vs 6.9% in 2020 respectively). Segmenting refund behavior by product category, region, and order timing could surface whether the issue is structural or incentive-driven.
 - Address the low loyalty penetration in Laptops (22% loyalty share). Given that Laptops are NexTech's highest AOV product, converting even a modest portion of Laptop buyers into loyalty members could have a substantial revenue impact.
 - Run a targeted loyalty acquisition push in APAC and LATAM, as both regions mirror EMEA's revenue scale but remain smaller contributors overall. Deepening loyalty engagement there has upside with relatively low program cannibalization risk

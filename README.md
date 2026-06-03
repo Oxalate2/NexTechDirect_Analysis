@@ -12,7 +12,7 @@ An evaluation of whether NexTech Direct's loyalty program delivered measurable v
 A look into how refund behavior varied across Apple's product lineup and whether those patterns carried meaningful revenue implications.
 
 
-The Entity Relationship Diagram can be found [here].
+The Entity Relationship Diagram can be found [here](https://github.com/Oxalate2/NexTechDirect_Analysis/blob/main/ERD.png).
 
 The SQL queries used to uncover these insight can be found [here](https://github.com/Oxalate2/NexTechDirect_Analysis/blob/main/queries.sql).
 
@@ -145,7 +145,3 @@ At the product level, MacBooks carried the highest refund rates across all three
 - The **2020** refund spike across Apple products appears primarily situational (COVID-era disruption) given the sharp **2021** recovery, as no immediate product-specific intervention seems necessary based on current trends alone.
 - **MacBook** refunds deserve ongoing monitoring. Despite low refund counts relative to AirPods, their **~$1,600 AOV** means each return carries disproportionate revenue impact. A targeted post-purchase support or return-reduction initiative for MacBooks could protect a meaningful share of high-value revenue.
 - Establish a consistent year-over-year refund tracking cadence for Apple products specifically, since the **2020** anomaly makes it difficult to distinguish structural refund behavior from external shocks without a cleaner baseline.
-
-
-## ERD
-<img width="800" alt="image" src="https://github.com/user-attachments/assets/50f3f1e3-7ad5-47c2-a7f3-584ef6874e28" />

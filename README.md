@@ -17,7 +17,6 @@ NexTech Direct is a US-based e-commerce retailer that specializes in consumer el
 
 **What were the refund trends across Apple products?**
 - What were the overall refund rates and refund counts for Apple products?
-- How did AOV compare across individual Apple products?
 - Did refund behavior change year over year?
 
 # Key Insights

@@ -11,6 +11,11 @@ An evaluation of whether NexTech Direct's loyalty program delivered measurable v
 **Apple Product Refunds**:
 A look into how refund behavior varied across Apple's product lineup and whether those patterns carried meaningful revenue implications.
 
+
+The Entity Relationship Diagram can be found [here].
+
+The SQL queries used to uncover these insight can be found [here](https://github.com/Oxalate2/NexTechDirect_Analysis/blob/main/queries.sql).
+
 # Key Insights
 ## Sales Overview
 From 2019-2022, just over **108k total orders generated $28M in gross revenue** over this 4-year timespan. A key year was **2020,** when a spike in sales led to a **160% increase in revenue** year-over-year and a **2x growth in order volume,** driven by increased online consumer demand amidst the COVID-19 pandemic. However, this momentum proved to be unsustainable through 2021-2022 with key metrics showing decreases year-over-year: total revenue by **46%**, order volume **40%**, and average order value **(AOV) by 10%**. While this decline can be linked to society slowly coming out of lockdown, the next sections will be diving into other contributing factors and point out potential areas that could be improved upon.
